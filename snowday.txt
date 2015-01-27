@@ -1,0 +1,42 @@
+Snow Day Quizzz!
+
+
+1. What is the difference between an API and a server?
+
+   API stand for application programming interface, which is a set of programming instructions and standards for accessing
+   a Web-based software application or Web tool.
+   For example: Groupon.com released its API so that Web site developers could more easily access Groupon's product
+   information. Also can have a third party Website post direct links to Groupon products with updated information.
+
+   A server is a running application which capable of accepting requests from the client and giving responses accordingly.
+
+
+2. What does a DNS server do when you type "www.google.com" into an address bar?
+
+   DNS server stand for domain name service server, which changes text urls into IP addresses.
+   When you type "www.google.com" into an address bar, the request goes to the DNS server first, and looks up it's associated IP address,
+   then redirects the request to the right place.
+
+
+
+3. What are some differences between a single page application and a multipage application? List one example of each.
+
+  MPA — Multi Page Application, which Ask server for a new page.
+        For instance- Wikipedia and Reddit.
+  SPA — Single Page Application, which ask server data. All necessary code - HTML, JavaScript, AJAX, CSS...etc.
+        It is retrieved with a single page load and behind the scenes. For instance-  Google Map and Trello.
+
+
+4. Why do we use RESTful routes?
+
+  REST- (Representational State Transfer) is a software architecture style consisting of guidelines and best practices
+  for creating scalable web services. RESTful systems communicate over the HTTP verbs (GET, POST, PUT, DELETE, etc.)
+  used by web browsers to retrieve web pages and send data to remote servers.
+
+
+
+5. What is an API key and why are they used?
+
+  An API key is like a password used to access to its associated API.
+  They are used to know where requests are coming from, and you often have to register in order to get them.
+  Keeping any API key that you use in a safe place.
